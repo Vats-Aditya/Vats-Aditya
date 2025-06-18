@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... making codes 
 - 🌱 I’m currently learning in... java script
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me... By my Instagram Id. Aditya_vats922
+- 📫 How to reach me... "their is nothing Where you can reach me"
 - 😄 Pronouns: Sun
 - ⚡ Fun fact: ...
 
