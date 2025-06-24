@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vats-Aditya
-- 👀 I’m interested in ... making codes 
-- 🌱 I’m currently learning in... java script
+- 👀 I’m interested in ... Core languages 
+- 🌱 I’m currently learning in... Cpp,Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... "their is nothing Where you can reach me"
 - 😄 Pronouns: Sun
